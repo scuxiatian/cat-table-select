@@ -110,7 +110,7 @@ export default {
 	multiple></cat-table-select>
 ```
 
-### customer table nodes
+### customer table rows
 ```javascript
 <cat-table-select
 	v-model="value1"
@@ -122,7 +122,7 @@ export default {
 </cat-table-select>
 ```
 
-### filterable table nodes
+### filterable table rows
 ```javascript
 <cat-table-select
 	v-model="value1"
